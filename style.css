@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    /* background-color: #BEDBFF; */
+    background-image: url(./img/1.jpg);
+    
+}
+
+h1{
+    color: #C27AFF;
+    background-color: #BEDBFF;
+    font-family: 'Sekuya', sans-serif;
+    text-decoration: underline;
+    font-size: 40px;
+}
+.odd{
+    font-size: 20px;
+    color: #2C92B8;
+    padding: 10px;
+}
+.even{
+    font-size: 20px;
+    color: #2C92B8;
+    padding: 10px;
+
+}
+
+.div{
+   padding: 30px;
+   border: solid 2px #27272A;
+}
+.odds{
+    font-size: 30px;
+    color: #2C92B8;
+    padding: 10px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 15px;
+}
