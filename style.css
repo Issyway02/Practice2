@@ -3,8 +3,8 @@
     padding: 0;
 }
 body{
-    /* background-color: #BEDBFF; */
-    background-image: url(./img/1.jpg);
+    background-color: #BEDBFF;
+    background-image: url();
     
 }
 
@@ -30,6 +30,7 @@ h1{
 .div{
    padding: 30px;
    border: solid 2px #27272A;
+   border-radius: 10px;
 }
 .odds{
     font-size: 30px;
@@ -40,4 +41,32 @@ h1{
     border-radius: 5px;
     display: inline-block;
     margin: 15px;
+}
+.div2{
+    /* background: linear-gradient(#aa74b3 #b0745e); */
+    /* border: 2px solid #fff; */
+}
+p{
+    font-size: 30px;
+    padding: 10px
+    /* background-image: url(); */
+}
+.box1{
+    /* padding-left: 60px; */
+}
+/* #box{
+    margin-left: 470px;
+} */
+#boxx{
+        /* margin-left: 200px; */
+}
+.box2{
+    width: 200px;
+    height: 250px;
+    border: 3px solid;
+    margin: 10px;
+    float: left;
+    font-size: 30px;
+    background-color: #CE93D8;
+    padding-left: 40px;
 }
